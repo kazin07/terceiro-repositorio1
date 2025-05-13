@@ -63,7 +63,7 @@ header {
     text-shadow: -5px 5px var(--laranja-claro);
 }
 
-#tropicalia {
+#beach-tour {
     position: relative;
     padding-top: 5rem;
     margin-top: 3rem;
@@ -71,7 +71,7 @@ header {
     background-size: 180px 180px; /* Ajuste o tamanho conforme necessário*/
 }
 
-#tropicalia .container {
+#beach-tour .container {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -152,10 +152,10 @@ header {
     color: var(var(--branco);
 }
 
-.alto-contraste #tropicalia {
+.alto-contraste #beach-tour {
     background: none;
 }
 
 .alto-contraste #galeria {
-    background-color: var(--branco);
+    background-color: var(--preto);
 }
