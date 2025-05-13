@@ -19,7 +19,7 @@ section {
 }
 
 header {
-    background-color: var(--branco);
+    background-color: var(--cor-principal);
 }
 
 .nav-imagem {
